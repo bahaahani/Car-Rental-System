@@ -1,6 +1,6 @@
 # Car Rental Management System Projects
 
-A curated list of GitHub projects that could be useful for car rental management systems.
+A  list of GitHub projects that could be useful for car rental management systems.
 
 ## 1. Rent-a-Car-Management-System by AbdullahShahid01
 - **Stars**: 120
@@ -30,4 +30,3 @@ A curated list of GitHub projects that could be useful for car rental management
 - **Description**: A C++ project that allows users to manage various tasks such as adding, modifying, and removing cars, as well as managing rental records.
 - **GitHub Link**: [Car-Rental-System](https://github.com/PFYCS/Car-Rental-System)
 
-Each project offers different features and is built with different programming languages. They provide a range of functionalities that can be suited for various needs in managing a car rental business.
