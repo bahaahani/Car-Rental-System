@@ -20,15 +20,16 @@ View the licensing terms for using and contributing to our project.
 
 Take a look at how the Car Rental System app will look and feel:
 
-![App Screenshot 1](images/image.png)
-![App Screenshot 2](images/image2.png)
-![App Screenshot 3](images/image3.png)
-![App Screenshot 4](images/image4.png)
-![App Screenshot 5](images/image5.png)
-![App Screenshot 6](images/image6.png)
-![App Screenshot 7](images/image7.png)
-![App Screenshot 8](images/image8.png)
-![App Screenshot 9](images/image9.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="images/image2.png" alt="App Screenshot 2" style="max-width: 30%;">
+    <img src="images/image3.png" alt="App Screenshot 3" style="max-width: 30%;">
+    <img src="images/image4.png" alt="App Screenshot 4" style="max-width: 30%;">
+    <img src="images/image5.png" alt="App Screenshot 5" style="max-width: 30%;">
+    <img src="images/image6.png" alt="App Screenshot 6" style="max-width: 30%;">
+    <img src="images/image7.png" alt="App Screenshot 7" style="max-width: 30%;">
+    <img src="images/image8.png" alt="App Screenshot 8" style="max-width: 30%;">
+    <img src="images/image9.png" alt="App Screenshot 9" style="max-width: 30%;">
+</div>
 
 ## Contributing
 
