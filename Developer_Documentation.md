@@ -49,8 +49,8 @@ Remember to follow our [Code of Conduct](./Code_of_Conduct.md) to foster a posit
 
 For any questions or concerns, feel free to contact us:
 
-Email: carrentalsystem@example.com
-Google Group: Car Rental System Google Group
+Email: Project444@gmail.com
+Google Group: carrentalsystem@googlegroups.com
 
 For more details on our communication channels, check out the [Communication Channels](./Communication_Channels.md) file.
 
