@@ -22,7 +22,7 @@ Before you start contributing to the Car Rental System project, make sure you ha
 Follow these steps to set up the development environment and start contributing:
 
 1.Clone the Repository:
-git clone https://github.com/your-username/car-rental-system.git
+git clone https://github.com/bahaahani/car-rental-system.git
 cd car-rental-system
 
 2.Install Dependencies:
