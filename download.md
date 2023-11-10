@@ -38,6 +38,3 @@ To run the application on a device, you'll need to add the platform to your proj
 For Android
 ionic cordova platform add android
 ionic cordova run android
-
-
-This Markdown file should be saved as `README.md` or another appropriately named Markdown file in the root directory of your GitHub repository. Users can follow these instructions to set up and run the car rental application on their devices.
