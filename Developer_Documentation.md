@@ -23,6 +23,7 @@ Follow these steps to set up the development environment and start contributing:
 
 1.Clone the Repository:
 git clone https://github.com/bahaahani/car-rental-system.git
+
 cd car-rental-system
 
 2.Install Dependencies:
