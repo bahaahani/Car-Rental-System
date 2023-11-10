@@ -20,7 +20,7 @@ View the licensing terms for using and contributing to our project.
 
 Take a look at how the Car Rental System app will look and feel:
 
-![App Screenshot 1](path_to_your_screenshot_1)
+![App Screenshot 1](images/image.png)
 ![App Screenshot 2](path_to_your_screenshot_2)
 ... (more screenshots)
 
