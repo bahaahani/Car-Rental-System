@@ -1,7 +1,7 @@
 # Development Status
 
 The development status provides an overview of the current stage and progress of the Car Rental Management System. It includes details about the stable release, backend API development, frontend application progress, mobile phone application development, user feedback and testing, strict testing and quality assurance procedures, priorities for improvement, and the team's commitment to delivering an exceptional system. The Car Rental Management System has reached a stable release and is currently in an advanced development stage. 
-The Car Rental Management System development status update includes the following key points:
+The Car Rental Management System development status includes the following key points:
 
 1. **Stable Release and Advanced Development Stage**:
 - The system has reached a stable release, ensuring reliability.
