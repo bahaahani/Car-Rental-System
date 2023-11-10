@@ -62,7 +62,9 @@ We value your engagement and are here to support you.
 For more information and support, refer to the following resources:
 
 Ionic Documentation
+
 Angular Documentation
+
 Node.js Documentation
 
 
