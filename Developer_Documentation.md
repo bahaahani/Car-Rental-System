@@ -4,7 +4,7 @@ Welcome to the Car Rental System Developer Documentation! Whether you're a seaso
 
 ## Prerequisites
 
-Before you embark on your journey with the Car Rental System, make sure your development environment is set up correctly. Follow the simple steps outlined in the [Prerequisites](#prerequisites) section to ensure a smooth start.
+Before you embark on your journey with the Car Rental System, make sure your development environment is set up correctly. Follow the simple steps outlined in the [Prerequisites](#Prerequisites) section to ensure a smooth start.
 
 ## Getting Started
 
