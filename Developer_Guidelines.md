@@ -13,7 +13,7 @@ Welcome to the Car Rental System Developer Guidelines! This concise guide outlin
 ## Testing:
 
 6. **Unit Tests:** Write unit tests for code to ensure functionality and reliability. Test new features and bug fixes.
-7. **Automated Testing:** Whenever possible, include automated tests for new code and ensure existing tests pass.
+
 
 ## Security:
 
