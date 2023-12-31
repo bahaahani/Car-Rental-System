@@ -25,7 +25,6 @@
 - Invoicing and billing.
 
 ### Maintenance and Servicing
-- Schedule and track vehicle maintenance.
 - Log service history for each vehicle.
 - Alert notifications for upcoming service needs.
 
