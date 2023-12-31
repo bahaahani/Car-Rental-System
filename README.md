@@ -3,8 +3,7 @@
 Welcome to our GitHub page for the Car Rental System! This project is an innovative solution for managing car rentals, built using Ionic/Angular. We're excited to share our work with you.
 
 ## Explore Our Project
-## Explore Our Project
-## Explore Our Project
+
 
 ### [Setup Instructions](https://github.com/bahaahani/Car-Rental-System/blob/main/SETUP.md)
 Get started with our project by following these detailed setup instructions.
