@@ -21,7 +21,6 @@ Welcome to our Car Rental System, a cutting-edge platform developed to simplify 
 ## 2. Features
 - **Effortless Reservations:** Browse and reserve from a broad fleet of automobiles in a matter of seconds.
 - **User-Friendly Interface:** An intuitive design guarantees that all users have a positive experience.
-- **Flexible Billing:** Clear and adaptable billing choices for a simple payment process.
 - **Comprehensive Management:** Administrators have full control over the fleet, users, and reservations through a powerful dashboard.
 
 ## 3. Getting Started
