@@ -8,9 +8,9 @@
 - Role-based access control for employees and managers.
 
 ### Vehicle Inventory Management
-- Add, update, and delete vehicle listings.
+- Add, update, and delete vehicle listings.,,
 - Manage vehicle details (make, model, year, status).
-- Vehicle availability tracking.
+- Vehicle availability tracking..
 
 ### Rental Management
 - Booking engine for scheduling and reservations.
