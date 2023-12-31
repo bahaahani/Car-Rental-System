@@ -3,7 +3,7 @@
 ## Features List
 
 ### User Management
-- User registration only.
+- User registration and login.
 - Profile management for users.
 - Role-based access control for employees and managers.
 
